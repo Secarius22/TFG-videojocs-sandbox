@@ -1,0 +1,17 @@
+[Llibrería]
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+
+[Llibrería IDE]
+.vscode/
+.idea/
+
+[Sistema]
+.DS_Store
+Thumbs.db
+
+[Logs]
+*.log
